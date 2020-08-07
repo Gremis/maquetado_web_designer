@@ -3,7 +3,7 @@
 ![](web.gif)
 
 
-![](tablet.gif)
+![](tablet1.gif)
 
 <img src= "cel.png">
 
