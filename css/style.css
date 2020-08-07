@@ -380,7 +380,7 @@ section#contactenos form input#enviar{
 
 	
 section#servicios #cajaServicios{
-	top: 0;
+	top: 5vw;
 }
 	
 section#servicios #cajaServicios ul#lista{
@@ -395,6 +395,18 @@ section#servicios #cajaServicios ul#visor{
     margin-top: 1.5vw;
 }
 
+section#quienesSomos {
+    height: 67vw;
+}
+
+section#servicios {
+    height: 67vw;
+}
+
+section#contactenos {
+    margin: 12vw 1vw 5vw;
+    height: 52vw;
+}
 }
 
 @media only screen and (max-width: 360px) {
