@@ -3,9 +3,7 @@
 ![](web.gif)
 
 
-![](phone.gif)
+![](tablet.gif)
 
-<img src="cel.png">
-
-<img src = "phone.png">
+<img src= "cel.png">
 
