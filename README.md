@@ -1,4 +1,4 @@
-# maquetado_web_designer
+# Maquetación de Página Web usando CSS GRID
 
 ![](web.gif)
 
